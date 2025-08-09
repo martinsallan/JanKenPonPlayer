@@ -1,1 +1,1 @@
-# JanKenPonTestPlayer
+# JanKenPonPlayer
